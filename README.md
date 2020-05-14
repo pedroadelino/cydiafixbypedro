@@ -1,2 +1,2 @@
 # cydiafixbypedro
-For white screen problem only.
+For Cydia white screen problem only.
